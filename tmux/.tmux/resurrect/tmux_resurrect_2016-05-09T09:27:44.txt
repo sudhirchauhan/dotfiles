@@ -1,0 +1,7 @@
+pane	FreecodeAcademy	1	:~/.dotfiles	1	:*	1	:/home/ubuntu/.dotfiles	1	zsh	:
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	FreecodeAcademy	1	1	:*	b61e,74x34,0,0,1
+window	writing	1	1	:*	b524,91x34,0,0,7
+window	writing	2	0	:-	b525,91x34,0,0,8
+state	FreecodeAcademy	

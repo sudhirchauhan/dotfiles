@@ -1,0 +1,5 @@
+pane	organizer	1	:emacs	1	:*	1	:/home/ubuntu	1	emacs	:emacs
+pane	organizer	2	:~	0	:-	1	:/home/ubuntu	1	zsh	:
+window	organizer	1	1	:*	b885,100x34,0,0,8
+window	organizer	2	0	:-	b886,100x34,0,0,9
+state	organizer	

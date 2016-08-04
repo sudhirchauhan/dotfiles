@@ -1,0 +1,13 @@
+pane	organizer	1	:emacs	1	:*	1	:/home/ubuntu	1	emacs	:emacs
+pane	organizer	1	:emacs	1	:*	2	:/home/ubuntu	0	python3	:python3
+pane	organizer	2	:~	0	:	1	:/home/ubuntu/nltk_data/corpora/swadesh	1	elinks	:elinks https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git
+pane	organizer	2	:~	0	:	2	:/home/ubuntu	0	zsh	:
+pane	organizer	3	:~/Downloads	0	:-	1	:/home/ubuntu/Downloads	1	zsh	:
+pane	writing	1	:emacs	1	:*	1	:/home/ubuntu/writing	1	emacs	:emacs writing.org
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	organizer	1	1	:*	af9e,100x34,0,0{50x34,0,0,0,49x34,51,0,7}
+window	organizer	2	0	:	2fa3,100x34,0,0{50x34,0,0,1,49x34,51,0,8}
+window	organizer	3	0	:-	b87f,100x34,0,0,2
+window	writing	1	1	:*	b880,100x34,0,0,3
+window	writing	2	0	:-	b881,100x34,0,0,4
+state	organizer	

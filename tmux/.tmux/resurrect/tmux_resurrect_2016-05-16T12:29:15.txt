@@ -1,0 +1,5 @@
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	writing	1	1	:*	b87f,100x34,0,0,2
+window	writing	2	0	:-	b880,100x34,0,0,3
+state	writing	

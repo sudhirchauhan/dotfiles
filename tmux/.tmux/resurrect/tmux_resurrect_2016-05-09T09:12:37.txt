@@ -1,0 +1,11 @@
+pane	FreecodeAcademy	1	:emacs	1	:*	1	:/home/ubuntu/Dropbox/Organizer/daily	1	emacs	:emacs -nw bootstrap.org
+pane	blog	1	:~/Organizer	1	:*	1	:/home/ubuntu/Dropbox/Organizer	1	zsh	:
+pane	blog	2	:../assets/books	0	:-	1	:/home/ubuntu/Dropbox/Organizer/assets/books	1	zsh	:
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	FreecodeAcademy	1	1	:*	b51e,91x34,0,0,1
+window	blog	1	1	:*	b626,74x34,0,0,9
+window	blog	2	0	:-	5b3f,74x34,0,0,10
+window	writing	1	1	:*	b524,91x34,0,0,7
+window	writing	2	0	:-	b525,91x34,0,0,8
+state	blog	

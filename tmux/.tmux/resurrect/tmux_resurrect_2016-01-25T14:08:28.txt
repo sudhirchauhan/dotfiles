@@ -1,0 +1,6 @@
+pane	haskell-to-scheme	1	:..ell-to-scheme	1	:*	0	:/home/ubuntu/haskell-to-scheme	1	zsh	:
+pane	haskell-to-scheme	1	:..ell-to-scheme	1	:*	1	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	haskell-to-scheme	2	:~/bin/autoupdate-git.sh	0	:-	0	:/home/ubuntu/haskell-to-scheme	1	sh	:/bin/sh /home/ubuntu/bin/autoupdate-git.sh
+window	haskell-to-scheme	1	1	:*	f8d8,237x77,0,0{80x77,0,0,0,156x77,81,0,2}
+window	haskell-to-scheme	2	0	:-	d0de,237x77,0,0,1
+state	haskell-to-scheme	

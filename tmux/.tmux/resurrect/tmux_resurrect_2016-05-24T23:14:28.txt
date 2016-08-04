@@ -1,0 +1,11 @@
+pane	organizer	1	:emacs	1	:*	1	:/home/ubuntu	1	emacs	:emacs
+pane	organizer	2	:..box/Organizer	0	:-	1	:/home/ubuntu/Dropbox/Organizer	1	zsh	:
+pane	organizer	3	:~/Downloads	0	:	1	:/home/ubuntu/Downloads	1	zsh	:
+pane	writing	1	:editor	1	:*	1	:/home/ubuntu/writing	1	zsh	:-zsh
+pane	writing	2	:Command	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	organizer	1	1	:*	cb5f,67x58,0,0,2
+window	organizer	2	0	:-	cb60,67x58,0,0,3
+window	organizer	3	0	:	cb61,67x58,0,0,4
+window	writing	1	1	:*	b882,100x34,0,0,5
+window	writing	2	0	:-	b883,100x34,0,0,6
+state	writing	

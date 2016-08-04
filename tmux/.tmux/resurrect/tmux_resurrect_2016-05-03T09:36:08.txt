@@ -1,0 +1,23 @@
+pane	0	1	:~	1	:*	1	:/home/ubuntu	1	zsh	:
+pane	5	1	:emacs	1	:*	1	:/home/ubuntu/hangups	1	emacs	:emacs
+pane	FreecodeAcademy	1	:emacs	1	:*	1	:/home/ubuntu/Dropbox/Organizer/daily	1	emacs	:emacs -nw bootstrap.org
+pane	blog	1	:..han.github.io	1	:*	1	:/home/ubuntu/sudhirchauhan.github.io	1	zsh	:
+pane	blog	2	:..han.github.io	0	:-	1	:/home/ubuntu/sudhirchauhan.github.io	1	zsh	:
+pane	h-to-s	1	:emacs	0	:	1	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	1	:emacs	0	:	2	:/home/ubuntu/haskell-to-scheme	1	emacs	:emacs
+pane	h-to-s	2	:..ell-to-scheme	0	:-	1	:/home/ubuntu/haskell-to-scheme	1	zsh	:
+pane	h-to-s	2	:..ell-to-scheme	0	:-	2	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	3	:emacs	1	:*	1	:/home/ubuntu/haskell-to-scheme	1	emacs	:emacs
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	0	1	1	:*	b87f,100x34,0,0,2
+window	5	1	1	:*	b880,100x34,0,0,3
+window	FreecodeAcademy	1	1	:*	b882,100x34,0,0,5
+window	blog	1	1	:*	b883,100x34,0,0,6
+window	blog	2	0	:-	b884,100x34,0,0,7
+window	h-to-s	1	0	:	e60f,100x34,0,0{46x34,0,0,8,53x34,47,0,9}
+window	h-to-s	2	0	:-	a72c,100x34,0,0[100x17,0,0,10,100x16,0,18,11]
+window	h-to-s	3	1	:*	5c71,100x34,0,0,12
+window	writing	1	1	:*	b87d,100x34,0,0,0
+window	writing	2	0	:-	b87e,100x34,0,0,1
+state	FreecodeAcademy	

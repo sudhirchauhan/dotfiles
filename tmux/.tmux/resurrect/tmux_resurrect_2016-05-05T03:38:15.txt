@@ -1,0 +1,19 @@
+pane	FreecodeAcademy	1	:emacs	1	:*	1	:/home/ubuntu/Dropbox/Organizer/daily	1	emacs	:emacs -nw bootstrap.org
+pane	h-to-s	1	:emacs	0	:	1	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	1	:emacs	0	:	2	:/home/ubuntu/haskell-to-scheme	1	emacs	:emacs
+pane	h-to-s	2	:..ell-to-scheme	0	:-	1	:/home/ubuntu/haskell-to-scheme	1	zsh	:bash /home/ubuntu/.tmux/plugins/tmux-resurrect/scripts/../save_command_strategies/ps.sh 3158
+ps -eo ppid command
+sed s/^ *//
+grep ^3158
+cut -d  -f2-
+pane	h-to-s	2	:..ell-to-scheme	0	:-	2	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	3	:..macs.d/custom	1	:*	1	:/home/ubuntu/.emacs.d/custom	1	zsh	:
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	FreecodeAcademy	1	1	:*	b882,100x34,0,0,5
+window	h-to-s	1	0	:	4026,72x42,0,0{32x42,0,0,8,39x42,33,0,9}
+window	h-to-s	2	0	:-	ce5f,72x42,0,0[72x21,0,0,10,72x20,0,22,11]
+window	h-to-s	3	1	:*	57c1,72x42,0,0,12
+window	writing	1	1	:*	b87d,100x34,0,0,0
+window	writing	2	0	:-	b87e,100x34,0,0,1
+state	h-to-s	

@@ -1,0 +1,15 @@
+pane	5	1	:emacs	1	:*	1	:/home/ubuntu/Dropbox/Organizer/daily	1	emacs	:emacs -nw bootstrap.org
+pane	blog	1	:emacs	1	:*	1	:/home/ubuntu/sudhirchauhan.github.io	1	emacs	:emacs
+pane	blog	2	:..han.github.io	0	:-	1	:/home/ubuntu/sudhirchauhan.github.io	1	zsh	:
+pane	h-to-s	1	:w3m	0	:	1	:/home/ubuntu/haskell-to-scheme	0	w3m	:w3m https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+pane	h-to-s	1	:w3m	0	:	2	:/home/ubuntu/haskell-to-scheme	1	emacs	:emacs
+pane	h-to-s	2	:..ell-to-scheme	0	:-	1	:/home/ubuntu/haskell-to-scheme	1	ghc	:/usr/lib/ghc/lib/ghc -B/usr/lib/ghc --interactive
+pane	h-to-s	2	:..ell-to-scheme	0	:-	2	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	3	:..ell-to-scheme	1	:*	1	:/home/ubuntu/haskell-to-scheme	1	zsh	:
+window	5	1	1	:*	61b1,189x54,0,0,12
+window	blog	1	1	:*	61b3,189x54,0,0,14
+window	blog	2	0	:-	61b4,189x54,0,0,15
+window	h-to-s	1	0	:	d4d7,189x54,0,0{90x54,0,0,0,98x54,91,0,4}
+window	h-to-s	2	0	:-	ddb5,189x54,0,0[189x27,0,0,1,189x26,0,28,5]
+window	h-to-s	3	1	:*	c303,189x54,0,0,6
+state	blog	

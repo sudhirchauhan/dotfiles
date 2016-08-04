@@ -1,0 +1,9 @@
+pane	h-to-s	1	:w3m	0	:	1	:/home/ubuntu/haskell-to-scheme	0	w3m	:w3m https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+pane	h-to-s	1	:w3m	0	:	2	:/home/ubuntu/haskell-to-scheme	1	emacs	:emacs
+pane	h-to-s	2	:..ell-to-scheme	0	:-	1	:/home/ubuntu/haskell-to-scheme	1	ghc	:/usr/lib/ghc/lib/ghc -B/usr/lib/ghc --interactive
+pane	h-to-s	2	:..ell-to-scheme	0	:-	2	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	h-to-s	3	:..ell-to-scheme	1	:*	1	:/home/ubuntu/haskell-to-scheme	1	zsh	:
+window	h-to-s	1	0	:	aa4d,189x61,0,0{90x61,0,0,0,98x61,91,0,4}
+window	h-to-s	2	0	:-	84b2,189x61,0,0[189x31,0,0,1,189x29,0,32,5]
+window	h-to-s	3	1	:*	b903,189x61,0,0,6
+state	h-to-s	

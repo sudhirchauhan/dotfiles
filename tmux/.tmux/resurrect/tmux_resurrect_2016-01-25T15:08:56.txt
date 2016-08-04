@@ -1,0 +1,4 @@
+pane	0	1	:..ell-to-scheme	1	:*	1	:/home/ubuntu/haskell-to-scheme	0	zsh	:
+pane	0	1	:..ell-to-scheme	1	:*	2	:/home/ubuntu/haskell-to-scheme	1	zsh	:
+window	0	1	1	:*	8478,237x77,0,0{118x77,0,0,0,118x77,119,0,1}
+state	0	

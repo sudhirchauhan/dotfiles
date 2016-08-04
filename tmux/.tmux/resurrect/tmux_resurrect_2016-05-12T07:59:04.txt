@@ -1,0 +1,9 @@
+pane	FreecodeAcademy	1	:emacs	1	:*	1	:/home/ubuntu/.tmux/resurrect	1	emacs	:emacs
+pane	FreecodeAcademy	2	:..ganizer/daily	0	:-	1	:/home/ubuntu/Dropbox/Organizer/daily	1	zsh	:
+pane	writing	1	:~/writing	1	:*	1	:/home/ubuntu/writing	1	zsh	:
+pane	writing	2	:~/writing	0	:-	1	:/home/ubuntu/writing	1	zsh	:
+window	FreecodeAcademy	1	1	:*	d17e,140x59,0,0,1
+window	FreecodeAcademy	2	0	:-	d181,140x59,0,0,4
+window	writing	1	1	:*	b61f,74x34,0,0,2
+window	writing	2	0	:-	b620,74x34,0,0,3
+state	FreecodeAcademy	

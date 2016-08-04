@@ -1,0 +1,9 @@
+pane	blog	1	:..han.github.io	1	:*	1	:/home/ubuntu/sudhirchauhan.github.io	1	zsh	:
+pane	blog	2	:..han.github.io	0	:-	1	:/home/ubuntu/sudhirchauhan.github.io	1	zsh	:
+pane	organizer	1	:emacs	1	:*	1	:/home/ubuntu	1	emacs	:emacs
+pane	organizer	2	:../assets/books	0	:-	1	:/home/ubuntu/Dropbox/Organizer/assets/books	1	zsh	:
+window	blog	1	1	:*	b87d,100x34,0,0,0
+window	blog	2	0	:-	b87e,100x34,0,0,1
+window	organizer	1	1	:*	b885,100x34,0,0,8
+window	organizer	2	0	:-	b886,100x34,0,0,9
+state	organizer	
